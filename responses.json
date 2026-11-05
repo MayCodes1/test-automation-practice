@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "prompt": "Can I book a facial for Friday?",
+  "response": "Of course! What time works for you?",
+  "passed": true,
+  "tags": ["booking", "facial"]
+}
